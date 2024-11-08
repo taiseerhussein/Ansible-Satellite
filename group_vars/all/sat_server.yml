@@ -1,4 +1,4 @@
 ---
-sat_organization: "Shadowman"
-sat_location: "Chattanooga"
+sat_organization: "redhat"
+sat_location: "chicago"
 sat_validate_certs: true
