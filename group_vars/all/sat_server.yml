@@ -1,4 +1,4 @@
 ---
 sat_organization: "redhat"
 sat_location: "chicago"
-sat_validate_certs: true
+sat_validate_certs: false
